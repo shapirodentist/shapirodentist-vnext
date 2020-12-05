@@ -1,0 +1,120 @@
+.MS_MasterBottomAD {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: top; FONT-FAMILY: Verdana; TEXT-ALIGN: right
+}
+.MS_MasterGlobalLinks {
+	TEXT-ALIGN: left
+}
+.MS_MasterHeader {
+	VERTICAL-ALIGN: top
+}
+.MS_MasterBody {
+	VERTICAL-ALIGN: top
+}
+.MS_MasterFooter {
+	VERTICAL-ALIGN: top
+}
+.MS_MasterLeftNav {
+	VERTICAL-ALIGN: top
+}
+.MS_MasterRightAD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; VERTICAL-ALIGN: top; PADDING-TOP: 5px
+}
+.MS_MasterTopAD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 10px; VERTICAL-ALIGN: top; PADDING-TOP: 5px
+}
+.MS_MasterTopNav {
+	VERTICAL-ALIGN: top; TEXT-ALIGN: left
+}
+.MS_ErrorTextStandard {
+	FONT-WEIGHT: 700; COLOR: #ee2037
+}
+BODY {
+	MARGIN: 0px
+}
+HTML BODY {
+	
+}
+P {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+UL {
+	MARGIN-TOP: 0.3em; LIST-STYLE-POSITION: inside! important; MARGIN-BOTTOM: 0.3em
+}
+OL {
+	MARGIN-TOP: 0.3em; LIST-STYLE-POSITION: inside! important; MARGIN-BOTTOM: 0.3em
+}
+LI > DIV {
+	DISPLAY: inline
+}
+.MSC_HeaderText {
+	FONT-SIZE: 24px; MARGIN: 0px
+}
+.MSC_GlobalLinksFrame {
+	MARGIN: 3px 0px; WHITE-SPACE: nowrap
+}
+.MSC_SearchBox {
+	BORDER-RIGHT: #aaa 1px; PADDING-RIGHT: 0px; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 3px; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../../../wh/images/search_background.gif); PADDING-BOTTOM: 3px; BORDER-LEFT: #aaa 1px solid; WIDTH: 287px; COLOR: #aaa; PADDING-TOP: 3px; BORDER-BOTTOM: #aaa 1px solid; HEIGHT: 15px; BACKGROUND-COLOR: #fff
+}
+.MSC_SearchButton {
+	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; BORDER-LEFT: #aaa 1px solid; BORDER-BOTTOM: #aaa 1px solid
+}
+.MSC_GlobalLinksCommerceFrame {
+	WIDTH: 100%; WHITE-SPACE: nowrap; TEXT-ALIGN: right
+}
+.MSC_GlobalLinksSearchFrame {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.MSC_PrimaryNavLinkFrame {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; WHITE-SPACE: nowrap
+}
+.MSC_TopNavEnd {
+	WIDTH: 100%
+}
+.MSC_LeftNavEnd {
+	HEIGHT: 100%
+}
+.MSC_SecondaryNavLinkFrame {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; WHITE-SPACE: nowrap
+}
+.MSSB_ProductImageLink IMG {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 5px; MARGIN: 1px; PADDING-TOP: 5px; BORDER-RIGHT-WIDTH: 0px
+}
+.MSSB_ProductGalleryTable {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; WIDTH: 600px; PADDING-TOP: 3px
+}
+.MSSB_ProductGalleryTable TD {
+	VERTICAL-ALIGN: top
+}
+DIV.MSC_DisplayDataRepeatingForm {
+	
+}
+.MSC_DisplayDataRepeatingForm TABLE TD {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; VERTICAL-ALIGN: top; PADDING-TOP: 3px
+}
+.MSC_DataSharingWarning {
+	BORDER-RIGHT: #e9e9e9 1px solid; PADDING-RIGHT: 7px; BACKGROUND-POSITION: 9px 7px; BORDER-TOP: #e9e9e9 1px solid; MARGIN-TOP: 10px; PADDING-LEFT: 55px; BACKGROUND-IMAGE: url(../../../wh/images/icons/icon_alert.gif); PADDING-BOTTOM: 7px; BORDER-LEFT: #e9e9e9 1px solid; COLOR: #444; PADDING-TOP: 7px; BORDER-BOTTOM: #e9e9e9 1px solid; BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #ffffae
+}
+.MSC_DataSharingError {
+	BORDER-RIGHT: #e9e9e9 1px solid; PADDING-RIGHT: 7px; BACKGROUND-POSITION: 9px 7px; BORDER-TOP: #e9e9e9 1px solid; MARGIN-TOP: 10px; PADDING-LEFT: 55px; BACKGROUND-IMAGE: url(../../../wh/images/icons/alertstop32.gif); PADDING-BOTTOM: 7px; BORDER-LEFT: #e9e9e9 1px solid; COLOR: #444; PADDING-TOP: 7px; BORDER-BOTTOM: #e9e9e9 1px solid; BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #ffaeb9
+}
+.MS_HeaderFont {
+	FONT-WEIGHT: bold
+}
+.MS_WH_ZoneRow {
+	WIDTH: 100%
+}
+.MS_WH_ZoneSpacing {
+	
+}
+.MS_WH_ZoneContent {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; OVERFLOW-X: hidden; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+DIV#IWS_WH_Zone1 {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+DIV#IWS_WH_Zone2 {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}
+DIV#IWS_WH_Zone3 {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}

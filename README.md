@@ -1,2 +1,1 @@
-# shapirodentist-vnext
-Dr. Shapiro Web Site
+# shapirodentist-v3

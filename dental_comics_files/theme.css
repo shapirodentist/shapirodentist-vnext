@@ -1,0 +1,204 @@
+.BG_Null {
+	
+}
+.BG_Base {
+	BACKGROUND-COLOR: #000066
+}
+.BG_VeryLight {
+	BACKGROUND-COLOR: #ffffff
+}
+.BG_Light {
+	BACKGROUND-COLOR: #ce5e5e
+}
+.BG_Mid {
+	BACKGROUND-COLOR: #ff0000
+}
+.BG_Dark {
+	BACKGROUND-COLOR: #000033
+}
+.BG_VeryDark {
+	BACKGROUND-COLOR: #000000
+}
+.F_VeryLight {
+	COLOR: #ffffff
+}
+.F_Light {
+	COLOR: #ce5e5e
+}
+.F_Mid {
+	COLOR: #ff0000
+}
+.F_Dark {
+	COLOR: #000033
+}
+.F_VeryDark {
+	COLOR: #000000
+}
+BODY {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Geneva, sans-serif; BACKGROUND-COLOR: #000066; TEXT-ALIGN: center
+}
+.MS_MasterFrame {
+	MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial, Geneva, sans-serif
+}
+TH {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial, Geneva, sans-serif
+}
+.MS_MasterFrame {
+	WIDTH: 780px
+}
+.MSC_SiteWidth {
+	WIDTH: 100%
+}
+.MS_MasterHeader {
+	WIDTH: 100%
+}
+.MS_MasterGlobalLinks {
+	WIDTH: 100%
+}
+.MS_MasterPrimaryNav {
+	WIDTH: 100%
+}
+.MS_MasterFooter {
+	WIDTH: 100%
+}
+.MS_MasterTopAD {
+	WIDTH: 100%
+}
+.MS_MasterBottomAD {
+	WIDTH: 100%
+}
+.MSC_HeaderFrame {
+	BACKGROUND: #000033; WIDTH: 100%
+}
+.MSC_HeaderDescription {
+	FONT-SIZE: 12px; MARGIN: 0px
+}
+.MSC_GlobalLinkSpace {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 10pt; PADDING-BOTTOM: 10px; COLOR: #ffffff; PADDING-TOP: 10px
+}
+.MSC_GlobalLink {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.MSC_GlobalLink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.MSC_GlobalLink:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.MSC_GlobalLinkSpace {
+	FONT-SIZE: 10pt
+}
+.MSC_PrimaryNavFrame {
+	BACKGROUND: #ff0000; MARGIN: 1px 0px 5px; WIDTH: 100%; TEXT-ALIGN: left
+}
+.MSC_PrimaryNavLink {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.MSC_PrimaryNavLink:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.MSC_PrimaryNavLink:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.MSC_PrimaryNavLinkFrame-On {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #e3fae7; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; WHITE-SPACE: nowrap
+}
+.MSC_PrimaryNavLink-On {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #325884; TEXT-DECORATION: none
+}
+.MSC_PrimaryNavLink-On:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #325884; TEXT-DECORATION: underline
+}
+.MSC_PrimaryNavLink-On:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #325884; TEXT-DECORATION: none
+}
+.MSC_PrimaryNavLeftSpace {
+	FONT-SIZE: 1px; BACKGROUND: #000000; WIDTH: 1px; WHITE-SPACE: nowrap
+}
+.MSC_PrimaryNavRightSpace {
+	FONT-SIZE: 1px; BACKGROUND: #ce5e5e; WIDTH: 1px; WHITE-SPACE: nowrap
+}
+.MSC_PrimaryNavTopSpace {
+	BACKGROUND: #000000; HEIGHT: 1px
+}
+.MSC_PrimaryNavBottomSpace {
+	BACKGROUND: #ce5e5e; HEIGHT: 1px
+}
+.MS_MasterLeftNav {
+	BACKGROUND: #ce5e5e
+}
+.MSC_SecondaryNavFrame {
+	BACKGROUND: #e3fae7; WIDTH: 100%; TEXT-ALIGN: left
+}
+.MSC_SecondaryNavLink {
+	FONT-SIZE: 10pt; COLOR: #325884; TEXT-DECORATION: none
+}
+.MSC_SecondaryNavLink:hover {
+	FONT-SIZE: 10pt; COLOR: #325884; TEXT-DECORATION: underline
+}
+.MSC_SecondaryNavLink:visited {
+	FONT-SIZE: 10pt; COLOR: #325884; TEXT-DECORATION: none
+}
+.MSC_SecondaryNavLeftSpace {
+	FONT-SIZE: 1px; BACKGROUND: #ff0000; WIDTH: 1px; WHITE-SPACE: nowrap
+}
+.MSC_SecondaryNavRightSpace {
+	FONT-SIZE: 1px; BACKGROUND: #ffffff; WIDTH: 1px; WHITE-SPACE: nowrap
+}
+.MSC_SecondaryNavTopSpace {
+	BACKGROUND: #ff0000; HEIGHT: 1px
+}
+.MSC_SecondaryNavBottomSpace {
+	BACKGROUND: #ffffff; HEIGHT: 1px
+}
+.MSC_SecondaryNavLeftFrame-On {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #ffffff; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.MSC_SecondaryNavLinkFrame-On {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #ffffff; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; WHITE-SPACE: nowrap
+}
+.MSC_SecondaryNavLink-On {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10pt; BACKGROUND: #ffffff; PADDING-BOTTOM: 5px; COLOR: #325884; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.MSC_SecondaryNavLink-On:hover {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10pt; BACKGROUND: #ffffff; PADDING-BOTTOM: 5px; COLOR: #325884; PADDING-TOP: 5px; TEXT-DECORATION: underline
+}
+.MSC_SecondaryNavLink-On:visited {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10pt; BACKGROUND: #ffffff; PADDING-BOTTOM: 5px; COLOR: #325884; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.MS_MasterBody {
+	BACKGROUND: #ffffff
+}
+.MSC_Body {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #ffffff; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; HEIGHT: 100%; TEXT-ALIGN: left
+}
+.MSC_FooterFrame {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #000033; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+.MSC_FooterLink {
+	FONT-SIZE: 10pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.MSC_FooterLink:hover {
+	FONT-SIZE: 10pt; COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.MSC_FooterLink:visited {
+	FONT-SIZE: 10pt; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.MSC_FooterLinkSpacer {
+	FONT-SIZE: 10pt; COLOR: #ffffff
+}
+.MSC_FooterText {
+	FONT-SIZE: 10pt; COLOR: #ffffff
+}
+.MSC_CollectDataTable {
+	FONT-SIZE: 10pt
+}
+.MSC_CollectDataTable {
+	FONT-SIZE: 10pt
+}
+.MSC_ECBorder {
+	BORDER-LEFT-COLOR: #ff0000; BORDER-BOTTOM-COLOR: #ff0000; BORDER-TOP-COLOR: #ff0000; BORDER-RIGHT-COLOR: #ff0000
+}
