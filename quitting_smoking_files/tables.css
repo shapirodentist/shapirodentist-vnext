@@ -1,102 +1,102 @@
-TABLE.iws_table {
-	BORDER-TOP-STYLE: solid; BORDER-RIGHT-STYLE: solid; BORDER-LEFT-STYLE: solid; BORDER-COLLAPSE: collapse; BORDER-BOTTOM-STYLE: solid
+table.iws_table {
+	BORDER-TOP-style: solid; BORDER-RIGHT-style: solid; BORDER-LEFT-style: solid; BORDER-COLLAPSE: collapse; BORDER-BOTTOM-style: solid
 }
-TABLE.iws_table TD.white {
+table.iws_table TD.white {
 	BACKGROUND: white
 }
-TABLE.iws_table TD.gray {
+table.iws_table TD.gray {
 	BACKGROUND: gray
 }
-TABLE.iws_table TD.bold {
+table.iws_table TD.bold {
 	FONT-WEIGHT: bold
 }
-TABLE.iws_brown TD.dark {
+table.iws_brown TD.dark {
 	BACKGROUND: #8d6731; COLOR: white
 }
-TABLE.iws_brown TD.mid {
+table.iws_brown TD.mid {
 	BACKGROUND: #b19a78; COLOR: white
 }
-TABLE.iws_brown TD.light {
+table.iws_brown TD.light {
 	BACKGROUND: #f0eae1
 }
-TABLE.iws_burgundy TD.dark {
+table.iws_burgundy TD.dark {
 	BACKGROUND: #751611; COLOR: white
 }
-TABLE.iws_burgundy TD.mid {
+table.iws_burgundy TD.mid {
 	BACKGROUND: #b67875; COLOR: white
 }
-TABLE.iws_burgundy TD.light {
+table.iws_burgundy TD.light {
 	BACKGROUND: #f3dad8
 }
-TABLE.iws_green TD.dark {
+table.iws_green TD.dark {
 	BACKGROUND: #4e6c49; COLOR: white
 }
-TABLE.iws_green TD.mid {
+table.iws_green TD.mid {
 	BACKGROUND: #87a583; COLOR: white
 }
-TABLE.iws_green TD.light {
+table.iws_green TD.light {
 	BACKGROUND: #deeedc
 }
-TABLE.iws_grey TD.dark {
+table.iws_grey TD.dark {
 	BACKGROUND: #424242; COLOR: white
 }
-TABLE.iws_grey TD.mid {
+table.iws_grey TD.mid {
 	BACKGROUND: #838383; COLOR: white
 }
-TABLE.iws_grey TD.light {
+table.iws_grey TD.light {
 	BACKGROUND: #ececec
 }
-TABLE.iws_purple TD.dark {
+table.iws_purple TD.dark {
 	BACKGROUND: #554255; COLOR: white
 }
-TABLE.iws_purple TD.mid {
+table.iws_purple TD.mid {
 	BACKGROUND: #aa86aa; COLOR: white
 }
-TABLE.iws_purple TD.light {
+table.iws_purple TD.light {
 	BACKGROUND: #f3e9f3
 }
-TABLE.iws_slate TD.dark {
+table.iws_slate TD.dark {
 	BACKGROUND: #325884; COLOR: white
 }
-TABLE.iws_slate TD.mid {
+table.iws_slate TD.mid {
 	BACKGROUND: #638cbb; COLOR: white
 }
-TABLE.iws_slate TD.light {
+table.iws_slate TD.light {
 	BACKGROUND: #d1e4fa
 }
-TABLE.iws_scheme1 TD.dark {
+table.iws_scheme1 TD.dark {
 	BACKGROUND: #699; COLOR: white
 }
-TABLE.iws_scheme1 TD.mid {
+table.iws_scheme1 TD.mid {
 	BACKGROUND: #f90; COLOR: white
 }
-TABLE.iws_scheme1 TD.light {
+table.iws_scheme1 TD.light {
 	BACKGROUND: #f1f1eb
 }
-TABLE.iws_scheme2 TD.dark {
+table.iws_scheme2 TD.dark {
 	BACKGROUND: #696; COLOR: white
 }
-TABLE.iws_scheme2 TD.mid {
+table.iws_scheme2 TD.mid {
 	BACKGROUND: #cc0; COLOR: white
 }
-TABLE.iws_scheme2 TD.light {
+table.iws_scheme2 TD.light {
 	BACKGROUND: #fdfee3
 }
-TABLE.iws_scheme3 TD.dark {
+table.iws_scheme3 TD.dark {
 	BACKGROUND: #930; COLOR: white
 }
-TABLE.iws_scheme3 TD.mid {
+table.iws_scheme3 TD.mid {
 	BACKGROUND: #f60; COLOR: white
 }
-TABLE.iws_scheme3 TD.light {
+table.iws_scheme3 TD.light {
 	BACKGROUND: #fdfee3
 }
-TABLE.iws_scheme4 TD.dark {
+table.iws_scheme4 TD.dark {
 	BACKGROUND: #369; COLOR: white
 }
-TABLE.iws_scheme4 TD.mid {
+table.iws_scheme4 TD.mid {
 	BACKGROUND: #f60; COLOR: white
 }
-TABLE.iws_scheme4 TD.light {
+table.iws_scheme4 TD.light {
 	BACKGROUND: #fffef0
 }

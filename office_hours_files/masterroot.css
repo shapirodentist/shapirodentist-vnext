@@ -28,20 +28,20 @@
 .MS_ErrorTextStandard {
 	FONT-WEIGHT: 700; COLOR: #ee2037
 }
-BODY {
+body {
 	MARGIN: 0px
 }
-HTML BODY {
+HTML body {
 	
 }
 P {
 	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
 }
 UL {
-	MARGIN-TOP: 0.3em; LIST-STYLE-POSITION: inside! important; MARGIN-BOTTOM: 0.3em
+	MARGIN-TOP: 0.3em; LIST-style-POSITION: inside! important; MARGIN-BOTTOM: 0.3em
 }
 OL {
-	MARGIN-TOP: 0.3em; LIST-STYLE-POSITION: inside! important; MARGIN-BOTTOM: 0.3em
+	MARGIN-TOP: 0.3em; LIST-style-POSITION: inside! important; MARGIN-BOTTOM: 0.3em
 }
 LI > DIV {
 	DISPLAY: inline
@@ -88,7 +88,7 @@ LI > DIV {
 DIV.MSC_DisplayDataRepeatingForm {
 	
 }
-.MSC_DisplayDataRepeatingForm TABLE TD {
+.MSC_DisplayDataRepeatingForm table TD {
 	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; VERTICAL-ALIGN: top; PADDING-TOP: 3px
 }
 .MSC_DataSharingWarning {
