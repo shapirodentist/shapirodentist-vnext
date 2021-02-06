@@ -132,6 +132,7 @@ DIV#IWS_WH_Zone3 {
 	font-size: 32px;
 }
 .block-content {
+	padding-top: 6px;
 	font-family: Verdana, Arial, Geneva, sans-serif;;
 	font-size: 13px;
 	text-indent: 0px;
